@@ -14,4 +14,16 @@
 
 -Checking SKUs are consistent
 
+```SQL
+select count(product_price), product_price, product_sku from all_sessions group by product_sku, product_price order by product_sku desc
+```
+
+-determining whether there are any missing values 
+
+```SQL
+SELECT productsku 
+FROM sales_report
+WHERE productsku IS NULL
+```
+
 -Checking my results and ensuring they added up to the appropriate count
