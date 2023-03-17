@@ -4,15 +4,15 @@
 Use what I learned to analyze the data and understand how the variables in a dataset interact with respect to each other.
 
 ## Process
-### Review files in excel
-### Load CVS files into PostgreSQL 
-### Clean Data
-### Analyse Data
-### QA Process
-### ERD
+#### Review files in excel
+#### Load CVS files into PostgreSQL 
+#### Clean Data
+#### Analyse Data
+#### QA Process
+#### ERD
 
 ## Results
-### Finding meaningful results from this data Like:-
+#### I was able to answer all the questions and find meaningful results from this data Like:-
 
 -USA then Israel and Australia have the most impact from the revenue generated so the company need to find ways to attract the other contries.
 
@@ -21,11 +21,9 @@ Use what I learned to analyze the data and understand how the variables in a dat
 -Top selling-products in different cities and countries
 
 ## Challenges 
-### The columns that only have null values
-
-### Duplicate data
-
-### Needed to adjusting prices
+#### The columns that only have null values
+#### Duplicate data
+#### Needed to adjusting prices
 
 
 ## Future Goals
@@ -33,4 +31,4 @@ Use what I learned to analyze the data and understand how the variables in a dat
 ### To be more efficient working on similar projects spend more time on planning my process to save time
 
 ### To do more complex queries
-
+- If I had more time, I would definitely dedicate more time to understand the data.
