@@ -14,7 +14,7 @@ order by total desc
 
 Answer:
 highest countries: United State, Israel, Australia
-highest cities: Atlanta, Sunnyvale, Tel Aviv-Yafo
+highest cities: San Fransisco, Sunnyvale, Tel Aviv-Yafo
 
 **Question 2: What is the average number of products ordered from visitors in each city and country?**
 
@@ -48,7 +48,7 @@ order by  Country desc, numOfProductPerCat desc, city desc
 
 Answer:
 USA orderd the most
-The Most purchased categories in USA were office supplies
+The Most purchased categories in USA Home/Apparels category is the most ordered.
 
 **Question 4: What is the top-selling product from each city/country? Can we find any pattern worthy of noting in the products sold?**
 
@@ -62,7 +62,14 @@ ORDER BY SUM_total_transaction_revenue DESC;
 ```
 
 Answer:
-the top-selling product is in the office supplies 
+In all Google Alpine Style Backpack
+In all Canada Android Stretch Fit Hat Black
+Youtube Bottle Infuser in San Bruno
+Nest Cam Indoor Security Camera in Mountain View
+Google Men's Convertible Vest-Jacket Pewter in Sunnyvale
+Google Laptop Tech Backpack in Jersey City
+Google Lunch Bag in Charlotte
+Collapsible Shopping Bag in New York
 
 **Question 5: Can we summarize the impact of revenue generated from each city/country?**
 
@@ -77,7 +84,7 @@ order by country desc, city desc
 
 Answer:
 
-Most of the revenue is coming from the United States
+Most of the revenue is coming from the United States.
 
 
 
