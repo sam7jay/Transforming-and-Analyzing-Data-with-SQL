@@ -29,6 +29,5 @@ Use what I learned to analyze the data and understand how the variables in a dat
 ## Future Goals
 
 ### To be more efficient working on similar projects spend more time on planning my process to save time
-
 ### To do more complex queries
-- If I had more time, I would definitely dedicate more time to understand the data.
+If I had more time, I would definitely dedicate more time to understand the data.
