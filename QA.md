@@ -15,7 +15,9 @@
 -Checking SKUs are consistent
 
 ```SQL
-select count(product_price), product_price, product_sku from all_sessions group by product_sku, product_price order by product_sku desc
+select count(product_price), product_price, product_sku 
+from all_sessions group by product_sku, product_price 
+order by product_sku desc
 ```
 
 -determining whether there are any missing values 
